@@ -1,4 +1,4 @@
-# JoaoCoelho
+# Joao Coelho
 # Hi, I'm João Coelho 👋
 
 ### Business Intelligence & Analytics Master's Student | Data Analytics | Machine Learning
